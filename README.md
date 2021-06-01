@@ -1,0 +1,1 @@
+# SeeBatteryPercent-page
